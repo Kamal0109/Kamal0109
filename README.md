@@ -12,7 +12,7 @@
  - Link to [GFG](https://www.geeksforgeeks.org/user/kamaltiwari01/)
  - Link to [Resume](https://drive.google.com/file/d/1Ke25WCxG1MsydWsGTEbfzzh_RTLxejuD/view?usp=sharing)
 
-   - Link to [LinkedIn]([https://drive.google.com/file/d/1Ke25WCxG1MsydWsGTEbfzzh_RTLxejuD/view?usp=sharing](https://www.linkedin.com/in/kamaltiwari01/))
+   - Link to [LinkedIn]([https://drive.google.com/file/d/1Ke25WCxG1MsydWsGTEbfzzh_RTLxejuD/view?usp=sharing](https://www.linkedin.com/in/kamaltiwari01/])
 
 
 
