@@ -4,13 +4,16 @@
 
 - 🔭 I’m currently working on MTM Sports Pvt Ltd
 - 🌱 I’m currently learning Nodejs and Android Development
-- 
-- 📫 How to reach me: https://www.linkedin.com/in/kamaltiwari01/           kamaltiwari010902@gmail.com
+- 📫 How to reach me: kamaltiwari010902@gmail.com
 
-  Link to [leetcode](https://leetcode.com/u/Kamal0109/)
-  Link to [GFG](https://www.geeksforgeeks.org/user/kamaltiwari01/)
-  Link to [Resume](https://drive.google.com/file/d/1Ke25WCxG1MsydWsGTEbfzzh_RTLxejuD/view?usp=sharing)
-  
+ - Link to [GFG](https://www.geeksforgeeks.org/user/kamaltiwari01/)
+
+- Link to [leetcode](https://leetcode.com/u/Kamal0109/)
+ - Link to [GFG](https://www.geeksforgeeks.org/user/kamaltiwari01/)
+ - Link to [Resume](https://drive.google.com/file/d/1Ke25WCxG1MsydWsGTEbfzzh_RTLxejuD/view?usp=sharing)
+
+   - Link to [LinkedIn]([https://drive.google.com/file/d/1Ke25WCxG1MsydWsGTEbfzzh_RTLxejuD/view?usp=sharing](https://www.linkedin.com/in/kamaltiwari01/))
+
 
 
 <!--
