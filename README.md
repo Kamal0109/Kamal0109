@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on MTM Sports Pvt Ltd
+- 🔭 I’m currently working as an android developer at MTM Sports Pvt Ltd
 - 🌱 I’m currently learning Nodejs and Android Development
 - 📫 How to reach me: kamaltiwari010902@gmail.com
 
