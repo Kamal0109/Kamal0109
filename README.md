@@ -7,10 +7,10 @@
 - 📫 How to reach me: kamaltiwari010902@gmail.com
 
 
-- Link to [leetcode](https://leetcode.com/u/Kamal0109/)
-- Link to [GFG](https://www.geeksforgeeks.org/user/kamaltiwari01/)
-- Link to [Resume](https://drive.google.com/file/d/1Ke25WCxG1MsydWsGTEbfzzh_RTLxejuD/view?usp=sharing)
-- Link to [LinkedIn](https://www.linkedin.com/in/kamaltiwari01/)
+-  [leetcode](https://leetcode.com/u/Kamal0109/)
+-  [GFG](https://www.geeksforgeeks.org/user/kamaltiwari01/)
+-  [Resume](https://drive.google.com/file/d/1Ke25WCxG1MsydWsGTEbfzzh_RTLxejuD/view?usp=sharing)
+-  [LinkedIn](https://www.linkedin.com/in/kamaltiwari01/)
 
 
 
